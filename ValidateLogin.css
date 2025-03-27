@@ -1,0 +1,18 @@
+body{
+    background-image: url("image.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+#un{
+    border-color: black;
+}
+#pw{
+    border-color: black;
+}
+#us{
+    color: crimson;
+}
+#ps{
+    color: crimson;
+}
