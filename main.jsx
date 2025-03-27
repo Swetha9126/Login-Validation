@@ -1,7 +1,7 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import Login from './ValidateLogin'
-//import App from './uses'
+import Login from './ValidateLogin.jsx'
+import './ValidateLogin.css'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <Login/>
